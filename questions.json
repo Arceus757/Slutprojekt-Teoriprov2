@@ -1,0 +1,44 @@
+{
+    "questions": [
+        {
+            "question": "Who is the main antagonist in Tom and Jerry?",
+            "options": ["A. Spike", "B. Jerry", "C. Tom", "D. Butch"],
+            "answer": "C"
+        },
+        {
+            "question": "What is the primary setting for most Tom and Jerry episodes?",
+            "options": ["A. A farm", "B. A city", "C. A forest", "D. A desert"],
+            "answer": "B"
+        },
+        {
+            "question": "Which character is known for his cleverness and ability to outsmart Tom?",
+            "options": ["A. Spike", "B. Jerry", "C. Tom", "D. Butch"],
+            "answer": "B"
+        },
+        {
+            "question": "What is the typical outcome of Tom's attempts to catch Jerry?",
+            "options": ["A. He catches Jerry", "B. He fails", "C. He gets hurt", "D. He gets rewarded"],
+            "answer": "B"
+        },
+        {
+            "question": "Who is Tom's owner and often scolds him for his failures?",
+            "options": ["A. Spike", "B. Jerry", "C. Tom", "D. Butch"],
+            "answer": "C"
+        },
+        {
+            "question": "What type of animal is Jerry?",
+            "options": ["A. Mouse", "B. Cat", "C. Dog", "D. Bird"],
+            "answer": "A"
+        },
+        {
+            "question": "Which character is known for being bigger and often protects Jerry from Tom's attacks?",
+            "options": ["A. Spike", "B. Jerry", "C. Tom", "D. Butch"],
+            "answer": "A"
+        },
+        {
+            "question": "What is the primary method Tom uses to try to catch Jerry?",
+            "options": ["A. Traps", "B. His claws", "C. His teeth", "D. His speed"],
+            "answer": "A"
+        }
+    ]
+}
